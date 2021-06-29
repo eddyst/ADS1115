@@ -1,0 +1,12 @@
+{
+  "name": "ADS1115",
+  "version": "0.0.0+20200923085037",
+  "description": "Library to get from all 4 posible ADS1115 ADC on a I2cBus.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/eddyst/ADS1115.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
